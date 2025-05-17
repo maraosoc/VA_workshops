@@ -1,0 +1,10 @@
+cv2
+joblib
+matplotlib
+nbformat
+notebook
+numpy
+os
+scikit-image
+scikit-learn
+seaborn
