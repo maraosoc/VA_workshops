@@ -1,0 +1,13 @@
+torch==1.13.1
+torchvision==0.14.1
+torchaudio==0.13.1
+pytorch-lightning==2.0.7
+numpy
+pandas
+matplotlib
+scikit-learn
+seaborn
+tqdm
+Pillow
+torchmetrics
+lightgbm

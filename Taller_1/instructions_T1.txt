@@ -1,0 +1,1 @@
+En este taller realizaremos un extractor de características con el algoritmo HOG (Histogram of orients gradients) con las imagenes de Maize Phosphorus Leaf Deficiency (MPLD) Database disponible en https://zenodo.org/records/10279042
