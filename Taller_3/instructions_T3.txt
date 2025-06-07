@@ -1,1 +1,0 @@
-En este taller vamos a implementar un sistema de recuperación de texto-imagen con el algoritmo CLIP (Contrastive Lenguage Image Pre-Training)
