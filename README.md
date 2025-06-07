@@ -8,7 +8,7 @@ Este repositorio contiene cinco talleres que ponen en práctica el aprendizaje d
 
 1. **Taller 1: Introducción a modelos de clasificación**
    - Corta descripcion de los datos usados y tecnicas
-![Dataset MPLD](Results\Taller_1_output.png)
+![Diagrama](Results\Taller_1_output.png)
 2. **Taller 2: Clasificación de deficiencia de fósforo**
    - Uso de una CNN como extractor de características + cabeza de clasificación con LightGBM
    - Introducción a arquitecturas preentrenadas (VGG) y aprovechamiento de las capacidades de extracción de características de las mismas.
