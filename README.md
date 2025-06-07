@@ -16,7 +16,8 @@ Este repositorio contiene cinco talleres que ponen en práctica el aprendizaje d
      ![Resultado Taller 2](Results/Taller_2_output.png)
 
 3. **Taller 3: Sistema de recuperación texto-imagen**
-   - Corta descripción
+   - Generación de base vectorial de imagenes y creacion de embeddings de texto con CLIP
+   - Creación de sistema de recuperación de imagenes por texto usando similitud coseno entre embeddings
    ![Arquitectura ViTs](Results/Taller_3_output.png)
 4. **Taller 4: Tarea de pretexto**
    - Este notebook implementa un modelo de red neuronal convolucional (CNN) entrenado con una tarea de pretexto (Predicción de Rotación) utilizando un subconjunto de ImageNet
