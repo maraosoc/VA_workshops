@@ -7,7 +7,7 @@ Este repositorio contiene cinco talleres que ponen en práctica el aprendizaje d
 ## ✍ Talleres incluidos
 
 1. **Taller 1: Introducción a modelos de clasificación**
-   - Corta descripcion de los datos usados y tecnicas
+   - Implementamos un modelo para clasificar imágenes de hojas de maíz en 3 clases según su deficiencia de fósforo.
    ![Resultado Taller 1](Results/Taller_1_output.png) 
 2. **Taller 2: Clasificación de deficiencia de fósforo**
    - Uso de una CNN como extractor de características + cabeza de clasificación con LightGBM
@@ -19,7 +19,7 @@ Este repositorio contiene cinco talleres que ponen en práctica el aprendizaje d
    - Corta descripción
    ![Arquitectura ViTs](Results/Taller_3_output.png)
 4. **Taller 4: Tarea de pretexto**
-   - Corta descripción
+   - Este notebook implementa un modelo de red neuronal convolucional (CNN) entrenado con una tarea de pretexto (Predicción de Rotación) utilizando un subconjunto de ImageNet
 ![Resultados Taller 4](Results/Taller_4_output.png)
 5. **Taller 5: Localización de objetos por regresión de bounding boxes**  
    - Estrategia de detección de aviones en dos fases: Extracción de características con un modelo preentrenado y cabeza de regresión.
